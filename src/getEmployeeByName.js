@@ -1,3 +1,4 @@
+/* eslint-disable max-len */
 const data = require('../data/zoo_data');
 const { employees } = require('../data/zoo_data');
 
